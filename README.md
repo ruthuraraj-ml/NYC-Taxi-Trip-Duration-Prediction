@@ -336,6 +336,8 @@ NYC-Taxi-Trip-Duration-Prediction/
 │   └── NYC_Taxi_Trip_Duration_Prediction.ipynb
 │
 ├── images/
+|   ├── trip_duration_distribution
+|   ├── log_trip_duration_distribution
 │   ├── pickup_and_dropoff_density_map.png
 │   ├── distance_vs_duration.png
 │   ├── feature_importance.png
