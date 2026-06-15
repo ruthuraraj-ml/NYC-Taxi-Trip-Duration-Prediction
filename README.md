@@ -332,9 +332,6 @@ Machine learning can improve ETA prediction, dispatch efficiency, and fleet util
 NYC-Taxi-Trip-Duration-Prediction/
 │
 │
-├── dataset/
-│   └── nyc_taxi_trip_duration.csv
-│
 ├── notebook/
 │   └── NYC_Taxi_Trip_Duration_Prediction.ipynb
 │
