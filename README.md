@@ -76,19 +76,6 @@ Business Insights
 
 # 📊 Exploratory Data Analysis
 
-## Geographic Distribution of Trips
-
-The geographic analysis revealed a strong concentration of taxi activity around Manhattan and surrounding boroughs.
-
-**Figure: Pickup and Dropoff Location Density Map**
-
-![Pickup Density Map](images/pickup_and_dropoff_density_map.png)
-
-
-These spatial patterns motivated the creation of geospatial features such as travel distance, Manhattan distance, and trip bearing.
-
----
-
 ## Target Variable Distribution
 
 Trip duration exhibited significant positive skewness.
@@ -101,6 +88,24 @@ A logarithmic transformation was evaluated to reduce skewness and stabilize vari
 **Figure: Trip Duration Distribution**
 
 ![Trip Duration Distribution](images/trip_duration_distribution.png)
+
+
+**Figure:  Log Transformed Trip Duration**
+
+![Log Transformed Trip Duration](images/log_trip_duration_distribution.png)
+
+---
+
+## Geographic Distribution of Trips
+
+The geographic analysis revealed a strong concentration of taxi activity around Manhattan and surrounding boroughs.
+
+**Figure: Pickup and Dropoff Location Density Map**
+
+![Pickup Density Map](images/pickup_and_dropoff_density_map.png)
+
+
+These spatial patterns motivated the creation of geospatial features such as travel distance, Manhattan distance, and trip bearing.
 
 ---
 
